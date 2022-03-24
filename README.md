@@ -1,6 +1,4 @@
-### <center> README</center>
-
-***
+# README
 ![Programas](https://r69.cooltext.com/rendered/cooltext407199030354594.png)
 
 ![Nombre](https://r67.cooltext.com/rendered/cooltext407197485811939.png)
